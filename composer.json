@@ -1,5 +1,5 @@
 {
-    "name": "enqueue/null",
+    "name": "micro-module/null",
     "type": "library",
     "description": "Enqueue Null transport",
     "keywords": ["messaging", "queue", "testing"],
