@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Enqueue\Null;
+namespace Enqueue\NullTransport;
 
 use Interop\Queue\Consumer;
 use Interop\Queue\Context;

@@ -1,9 +1,9 @@
 <?php
 
-namespace Enqueue\Null\Tests;
+namespace Enqueue\NullTransport\Tests;
 
-use Enqueue\Null\NullConnectionFactory;
-use Enqueue\Null\NullContext;
+use Enqueue\NullTransport\NullConnectionFactory;
+use Enqueue\NullTransport\NullContext;
 use Enqueue\Test\ClassExtensionTrait;
 use Interop\Queue\ConnectionFactory;
 use PHPUnit\Framework\TestCase;

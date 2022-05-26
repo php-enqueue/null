@@ -1,8 +1,8 @@
 <?php
 
-namespace Enqueue\Null\Tests\Spec;
+namespace Enqueue\NullTransport\Tests\Spec;
 
-use Enqueue\Null\NullMessage;
+use Enqueue\NullTransport\NullMessage;
 use Interop\Queue\Spec\MessageSpec;
 
 class NullMessageTest extends MessageSpec

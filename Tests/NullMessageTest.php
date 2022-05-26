@@ -1,8 +1,8 @@
 <?php
 
-namespace Enqueue\Null\Tests;
+namespace Enqueue\NullTransport\Tests;
 
-use Enqueue\Null\NullMessage;
+use Enqueue\NullTransport\NullMessage;
 use Enqueue\Test\ClassExtensionTrait;
 use Interop\Queue\Message;
 use PHPUnit\Framework\TestCase;
